@@ -16,7 +16,7 @@
 
 ### 富文本编辑器 [Typora](https://typoraio.cn/)
 
-> 一款**Markdown**格式文本编辑器，支持多种格式导出。
+> 一款 Markdown 格式文本编辑器，支持多种格式导出。
 
 ### 快速下载器 [IDM](https://www.cn-idm.com/)
 
