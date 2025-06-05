@@ -1,4 +1,4 @@
-### [geek](https://geekuninstaller.com/) 强制卸载
+### 强制卸载 [geek](https://geekuninstaller.com/) 
 
 > 强制卸载软件，在卸载的同时会扫描注册表并删除相关的所有文件。
 
